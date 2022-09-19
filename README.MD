@@ -3,3 +3,6 @@
 - 'git status': shows the current status of the repo
 - 'git add': add files to the staging area
 - 'git commit': commits the changed file to the repo
+   - 'git commit -m "msg"': commits the changed file to the repo in oneline
+- 'git log': shows the history of the file
+   - 'git log --oneline': shows the history of the file in oneline
