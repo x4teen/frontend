@@ -1,0 +1,2 @@
+- 'git init' : initialize current folder as a git repo
+- 'git clone <url>': brings the git repo from <url> to current folder
