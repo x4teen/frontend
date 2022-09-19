@@ -6,3 +6,7 @@
    - 'git commit -m "msg"': commits the changed file to the repo in oneline
 - 'git log': shows the history of the file
    - 'git log --oneline': shows the history of the file in oneline
+- 'git diff': compare our current commited state with the uncommitted state.
+   - 'git diff --staged': runs git diff between the staging area and last known state
+   - 'git diff HEAD~<NUMBER>: compare the current committ with previous commits 
+   - 'git diff <HASH>': compare the current commit with previous commits.
