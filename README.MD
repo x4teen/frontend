@@ -11,3 +11,5 @@
    - 'git diff HEAD~<NUMBER>: compare the current committ with previous commits 
    - 'git diff <HASH>': compare the current commit with previous commits.
 - 'git pull <remote-name> <remote-branch>': Will pull the remote repository files into the current repository.
+- 'ssh-keygen': This command is available in powershell now. It can generate an ssh key for your use. The .ssh keys are stored in Users\<user-name>\.ssh folder
+	once we have the ssh key will we can connect using the ssh.
