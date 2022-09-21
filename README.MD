@@ -13,3 +13,4 @@
 - 'git pull <remote-name> <remote-branch>': Will pull the remote repository files into the current repository.
 - 'ssh-keygen': This command is available in powershell now. It can generate an ssh key for your use. The .ssh keys are stored in Users\<user-name>\.ssh folder
 	once we have the ssh key will we can connect using the ssh.
+- 'nano edit': Popular linux editor nano can be installed.
