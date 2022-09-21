@@ -10,3 +10,4 @@
    - 'git diff --staged': runs git diff between the staging area and last known state
    - 'git diff HEAD~<NUMBER>: compare the current committ with previous commits 
    - 'git diff <HASH>': compare the current commit with previous commits.
+- 'git pull <remote-name> <remote-branch>': Will pull the remote repository files into the current repository.
